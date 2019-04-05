@@ -1,0 +1,34 @@
+{
+  "desktop": 1,
+  "applications": [
+    {
+      "name": "pycharm",
+      "desktop": 1,
+      "size": {
+        "width": "60%"
+      }
+    },
+    {
+      "name": "datagrip",
+      "desktop": 0
+    },
+    {
+      "name": "slack",
+      "desktop": 2,
+      "size": {
+        "width": "50%"
+      }
+    },
+
+    {
+      "name": "firefox",
+      "desktop": 2,
+      "coordinates": {
+        "x": "50%"
+      },
+      "size": {
+        "width": "50%"
+      }
+    }
+  ]
+}
